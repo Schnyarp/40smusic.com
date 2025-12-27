@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://40smusic.com/sitemap.xml
